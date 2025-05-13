@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"actions",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"actions",
+  "parent":{
+    "name":"IA",
+    "path":"folders/IA.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
